@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CatalogeMonitor/1.0.0": {
+        "dependencies": {
+          "ZipManager": "1.0.0"
+        },
+        "runtime": {
+          "CatalogeMonitor.dll": {}
+        }
+      },
+      "ZipManager/1.0.0": {
+        "runtime": {
+          "ZipManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CatalogeMonitor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZipManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
